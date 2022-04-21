@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Genesys Workshops: Your_Workshop_Name"
+title = "Genesys Workshops: Multicloud Basics"
 theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= "false"
