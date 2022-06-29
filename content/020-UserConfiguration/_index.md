@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "User Configuration"
 chapter: true
 weight: 20
 ---
