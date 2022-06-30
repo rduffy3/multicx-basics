@@ -4,6 +4,6 @@ chapter: true
 weight: 20
 ---
 
-## Getting Started
+## Introduction
 
 {{% children showhidden="false" %}}

@@ -1,6 +1,6 @@
 ---
 title: "Conclusion"
-chapter: true
+chapter: false
 weight: 90
 ---
 
