@@ -1,7 +1,7 @@
 ---
 title: "User Configuration"
 chapter: true
-weight: 20
+weight: 10
 ---
 
 ## Getting Started
