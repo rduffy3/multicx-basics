@@ -1,7 +1,7 @@
 ---
 title: "Harbor Tour"
 chapter: true
-weight: 30
+weight: 20
 ---
 
 ## Getting Started
