@@ -66,3 +66,7 @@ Note: Tenant field should be empty.
 ![EODWorkshop](/images/EODWorkshopAdLogin.jpg)
 Make the Agent ready on all channels. 
 ![AgentReady](/images/WWE9_Agent_Ready.png)
+
+## Customization and Supported Channels
+The comprehensive guide to customization and supported channels, with numerous instructions and how-to, is available [here](https://gdemo.demo.genesys.com/demos/5e8dfc009be5c1b83d0d301d)
+
