@@ -1,0 +1,16 @@
+---
+title: "First Lesson"
+chapter: false
+weight: 10
+---
+
+## Configure Workshop
+
+1. Step one
+
+2. Step two
+
+3. Step three
+{{< vimeo 732584434>}}
+{{< vimeo 732584977>}}
+{{< vimeo 732585535>}}
