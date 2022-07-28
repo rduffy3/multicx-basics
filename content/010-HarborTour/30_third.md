@@ -1,9 +1,7 @@
 ---
-title: "Agent Workspace"
+title: "Agent experience & Workspace"
 chapter: false
 weight: 30
 ---
 
-## Agent experience & Workspace
-
-{{< vimeo 732585535>}}
+{{< vimeo 732585535 >}}
