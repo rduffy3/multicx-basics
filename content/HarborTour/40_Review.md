@@ -5,7 +5,7 @@ weight: 40
 ---
 
 ## Designer
-Designer is a web-based tool for developing self-service (IVR) and assisted service (routing) applications that run on the Genesys Multicloud CX platform. It is an omnichannel solution, enabling you to craft applications that handle voice, chat, and email interactions.
+Designer is a web-based tool for developing self-service (IVR) and assisted service (routing) applications that run on the Genesys Multicloud CX™ platform. It is an omnichannel solution, enabling you to craft applications that handle voice, chat, and email interactions.
 
 Designer offers the following features:
 
