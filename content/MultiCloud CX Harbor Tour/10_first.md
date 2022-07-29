@@ -1,5 +1,5 @@
 ---
-title: "10_Designer"
+title: "Designer"
 chapter: false
 weight: 10
 ---
