@@ -20,6 +20,7 @@ In this workshop you will learn how to setup for and present a Genesys Multiclou
 - Fundamental Understanding of Genesys Multicloud CX
 
 ### If you have not Deployed/Configured your EOD
+##### *Ensure you are logged into Gdemo to properly acces the links
 
 [AWS EOD Personal - Deployment & Setup](https://gdemo.demo.genesys.com/demos/5e8df9159be5c1b83d0d300b)
 
