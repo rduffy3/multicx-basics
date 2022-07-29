@@ -31,3 +31,4 @@ In this workshop you will learn how to setup for and present a Genesys Multiclou
 [Azure EOD Personal - Customization](https://gdemo.demo.genesys.com/demos/609c50c74666c400114e06ea)
 
 
+{{% children showhidden="false" %}}
