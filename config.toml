@@ -53,12 +53,12 @@ defaultContentLanguageInSubdir= true
 
 [Languages]
 [Languages.en]
-title = "Genesys Multicloud CX™ Harbor Tour"
+title = "Documentation for Hugo Learn Theme"
 weight = 1
 languageName = "English"
 
 [Languages.fr]
-title = "Genesys Multicloud CX™ Tour de Port"
+title = "Documentation du thème Hugo Learn"
 weight = 2
 languageName = "Français"
 
