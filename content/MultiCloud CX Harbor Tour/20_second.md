@@ -1,5 +1,5 @@
 ---
-title: "20_Supervisor with Pulse & GCXI Reporting"
+title: "Supervisor with Pulse & GCXI Reporting"
 chapter: false
 weight: 20
 ---

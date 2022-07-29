@@ -1,5 +1,5 @@
 ---
-title: "30_Agent experience & Workspace"
+title: "Agent experience & Workspace"
 chapter: false
 weight: 30
 ---
